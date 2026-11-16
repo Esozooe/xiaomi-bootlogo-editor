@@ -19,6 +19,7 @@
 - 小米8 (dipper)
 - 小米9 (cepheus)
 - 红米K20Pro (raphael)
+- 小米MIX 2S (polaris)
 
 ## 重要信息
 

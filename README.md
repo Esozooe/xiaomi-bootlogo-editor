@@ -22,6 +22,7 @@ Known supported devices:
 - Xiaomi Mi 8 (dipper)
 - Xiaomi Mi 9 (cepheus)
 - Redmi K20 Pro (raphael)
+- Xiaomi Mi MIX 2S (polaris)
 
 ## Important
 
